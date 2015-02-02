@@ -52,4 +52,4 @@ C конца 2011ого я работаю в [timepad.ru](https://timepad.ru/), 
 # Друзья
 
 * [v3](http://varyen.ru/) — девелопер. А еще у него крутая CMS, на которой кстати и этот сайт крутится
-* [Wolfsider](http://ne-kto.ru/) — дизайнер
+* [Wolfsider](https://vk.com/zukerberg) — дизайнер
