@@ -3,7 +3,7 @@ layout: page
 title: Барахолка
 permalink: /sell/
 weight: 60
-hide: true
+hide: yes
 ---
 
 * материнка Gigabyte GA-Z87-HD3
