@@ -4,7 +4,7 @@ email: mail@artyfarty.ru
 description:  Домашняя страница artyfarty
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://artyfarty.ru" # the base hostname & protocol for your site
-twitter_username: molecula
+twitter_username: molecularperson
 github_username:  artyfarty
 
 # Build settings
