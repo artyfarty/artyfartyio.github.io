@@ -10,7 +10,7 @@ permalink: /
 # Кто такой
 Звать Димой.
 
-Программист, веб-разработчик. Ещё я фотографирую.
+Веб-разработчик и погромист. Ещё я <a href="http://instagram.com/molecula" title="instagram">фотографирую</a>, <a href="https://www.youtube.com/channel/UCEfbYNDwwvHzfHuo3VAba2Q">снимаю</a> и <a href="https://www.youtube.com/channel/UCYPpar8eQ-Jt0W80s6keA2w">транслирую</a> видео, делаю <a href="https://vk.com/supersoniccon">фестивали</a>. Точу металл, собираю ретро стафф и смотрю онэмэ.
 
 # Я в социалочках
 Это, конечно же, не полный список. 
