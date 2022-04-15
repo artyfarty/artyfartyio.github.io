@@ -5,12 +5,10 @@ weight: 10
 permalink: /
 ---
 
-<a href="http://artyfarty.moikrug.ru/?from=card" style="border: none; display: block; float: right; margin: 0 0 1em 1em;"><img alt="Мой Круг — Дмитрий Гужов" src="http://moikrug.ru/users/P901529396/card.png" style="border: none;" title="Мой Круг — Дмитрий Гужов" /></a>
-
 # Кто такой
 Звать Димой.
 
-Веб-разработчик и погромист. Ещё я <a href="http://instagram.com/molecula" title="instagram">фотографирую</a>, <a href="https://www.youtube.com/channel/UCEfbYNDwwvHzfHuo3VAba2Q">снимаю</a> и <a href="https://www.youtube.com/channel/UCYPpar8eQ-Jt0W80s6keA2w">транслирую</a> видео, делаю <a href="https://vk.com/supersoniccon">фестивали</a>. Точу металл, собираю ретро стафф и смотрю онэмэ.
+<a href="https://career.habr.com/artyfarty">Веб-разработчик, погромист и дипломированный управленец разработкой.</a> Ещё я <a href="http://instagram.com/molecula" title="instagram">фотографирую</a>, <a href="https://www.youtube.com/channel/UCEfbYNDwwvHzfHuo3VAba2Q">снимаю</a> и <a href="https://www.youtube.com/channel/UCYPpar8eQ-Jt0W80s6keA2w">транслирую</a> видео, делаю <a href="https://vk.com/supersoniccon">фестивали</a>. Точу металл, собираю ретро стафф и смотрю онэмэ.
 
 # Я в социалочках
 Это, конечно же, не полный список. 
