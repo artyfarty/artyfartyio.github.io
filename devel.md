@@ -1,79 +1,85 @@
 ---
 layout: page
-title: Разработка
+title: Software development
 permalink: /devel/
 weight: 20
 ---
 
-Я — инженер по призванию и образованию. Могу строить сложные воздушные замки в голове. Могу очень быстро отлаживать, сужая область поиска для определения проблемы. Не привязываюсь к своему коду, стараюсь не иметь резких взглядов за или против каких-то технологий и подходов.
+I am an engineer by calling and education. I can build complex castles in the air in my mind. I can debug very quickly, narrowing down the search area to identify the problem. I don't get attached to my code, and I try not to have sharp views for or against certain technologies and approaches.
 
-Могу делать сам, а могу создать отдел тех кто будет всё делать — поставить процесс разработки и тестирования ПО.
+I can do it myself, or I can create a department of people who will do it — set up the software development and testing process.
 
-# Что умею
+# What I Can Do
+
+## Crypto Experience
+
+I have two years of experience working in a company involved with staking, where I honed my skills in blockchain technology and cryptocurrencies. My expertise extends to Ethereum (ETH), Cosmos, and various other digital currencies and blockchain protocols. I possess a deep understanding of staking mechanisms, smart contracts, and decentralized finance (DeFi).
+
+In addition to my technical knowledge, I excel in managing blockchain development projects. I have experience coordinating the efforts of multiple teams, ensuring efficient and effective collaboration. My ability to deeply immerse myself in the technical details of blockchain allows me to clearly explain our objectives, methodologies, and the underlying principles to all interested parties. This skill is crucial in aligning team efforts with project goals and in communicating the vision and functionality of our projects to stakeholders, team members, and a broader audience.
 
 ## PHP
-Многолетний опыт, ООП, MVC, MVVM и прочие крутые сокращения. Начинал чуть ли не во времена PHP4, успел поработать на почти всех версиях пятерки, сейчас пишу на 7.1.
+Years of experience, OOP, MVC, MVVM, and other cool acronyms. Started back in the days of PHP4, worked on almost all versions of PHP5, now writing in 7.1.
 
-* composer, PSR — мы против велосипедов!
-* Smarty2/3 на завидном уровне, могу заставлять темплейты вытворять невероятные вещи
-* Doctrine 1 — знаю изнутри, писал свои расширения к ней
-* Работал с кучей разных CMS и "движков"
-* Работа с процессами: параллелизм, демонизация, воркеры, и т.п.
-* Разработка cli-штук с приблудами типа диалогов, интерактивных консолей и прочих плюшек
-* Менеджеры очередей ([gearman](http://gearman.org/), rabbitmq)
-* Шифрование: поработал с RSA на PHP, ruby, C# (NET CF 2.0!!!), Java (Android), ObjC (iOS)
-* Работа с изображениями. Кроме типичных задачек — генерация всяких баркодов там, итд.
-* Юнит и акцептанс тесты (PHPUnit, [Codeception](http://codeception.com/), Webdriver)
-* [Аннотации](https://github.com/doctrine/annotations), reflection
-* Обработка ошибок — кастомные обработчики, логгирование, в том числе во всякие грейлоги и прочие чудеса техники
-* Отладка через xdebug
-* Сборка PHP и расширений с ключами и зависимостями
+* composer, PSR - we're against reinventing the wheel!
+* Smarty2/3 god level, I can make templates do unexpected things
+* Doctrine 1 - know it inside out, wrote my own extensions for it
+* Worked with a bunch of different CMS and "engines"
+* Process handling: parallelism, daemonization, workers, etc.
+* Development of CLI tools with add-ons like dialogs, interactive consoles, and other goodies
+* Queue managers ([gearman](http://gearman.org/), rabbitmq)
+* Encryption: worked with RSA on PHP, ruby, C# (NET CF 2.0!!!), Java (Android), ObjC (iOS)
+* Image processing. Besides typical tasks - generating various barcodes, etc.
+* Unit and acceptance tests (PHPUnit, [Codeception](http://codeception.com/), Webdriver)
+* [Annotations](https://github.com/doctrine/annotations), reflection
+* Error handling - custom handlers, logging, including various graylog and other wonders of technology
+* Debugging through xdebug
+* PHP compilation and extensions with keys and dependencies
 
-# Фронтэнд
-* Кроссбраузерная HTML-вёрстка. Не входит в число моих любимых занятий, но я с этого начинал и до сих пор могу что-то сверстать.
-* Сложный javascript
-  * Фреймворки "старой школы" – jquery, mootools (ха-ха-ха, помните такой? я хотел бы забыть)
-  * TypeScript — очень, очень люблю TypeScript
-  * javascript-шаблонизаторы (mustache, handlebars)
-  * 3rd-party скрипты (сложные приложения-виджеты). Мои виджеты умеют выживать в самых тяжелых условиях, когда на сайте разом jQuery и mootools.
-  * кроссдоменная коммуникация, not-so-[easyXDM](http://easyxdm.net/wp/). Всмысле, могу послать кросдоменный POST с телом из старых браузеров при необходимости
-* gulp, причём не просто на уровне собрал плагинов в пайп, а углубленно
+# Frontend
+* Cross-browser HTML layout. Not one of my favorite activities, but I started with it and can still do it.
+* Complex javascript
+  * "Old school" frameworks - jquery, mootools (ha-ha-ha, remember those? I wish I could forget)
+  * TypeScript - I love TypeScript very much
+  * javascript templating engines (mustache, handlebars)
+  * 3rd-party scripts (complex applications-widgets). My widgets can survive in the toughest conditions, when jQuery and mootools are on the site at the same time.
+  * Cross-domain communication, not-so-[easyXDM](http://easyxdm.net/wp/). I mean, I can send a cross-domain POST with a body from old browsers if necessary
+* gulp, and not just at the level of compiling a bunch of plugins into a pipe, but in-depth
 
-# И многое другое
-* Mysql, percona — сложные запросы, оптимизация, махинации с большими данными
-* mongo, redis, модными стораджами нас не удивить
-* немного SOLR
+# And Much More
+* Mysql, percona - complex queries, optimization, manipulations with big data
+* mongo, redis, trendy storages are not surprising to us
+* a bit of SOLR
 * Docker
-  * Написание и наследование докерфайлов. По-нормальному, с "чистыми" шагами
-  * Один сервис — один контейнер. `Dockerfile` на два экрана с PHP, nginx и прочей чепухой — это херня, а не контейнер.
-  * `docker-compose` — написание, оверрайды, сложные переплетения зависимостей, `volumes` и их кеширование, права доступа
-  * `docker-cloud` — `stackfile`, ограничения, создание образов и стэков, настройка всего этого в Amazon
+  * Writing and inheriting docker files. Properly, with "clean" steps
+  * One service - one container. A `Dockerfile` over two screens with PHP, nginx, and other nonsense is crap, not a container.
+  * `docker-compose` - writing, overrides, complex interdependencies, `volumes` and their caching, access rights
+  * `docker-cloud` - `stackfile`, limitations, creating images and stacks, setting all this up in Amazon
 * *nix
-  * В основном OS X и Debian, но и в RHEL/CentOS и BSD я не растеряюсь
-  * пакетные менеджеры, LAMP/LEMP, борьба с депенденси хеллом, селинукс...
-  * сборка ОО-софта по кусочкам
+  * Mainly OS X and Debian, but I'm not lost in RHEL/CentOS and BSD either
+  * Package managers, LAMP/LEMP, fighting dependency hell, selinux...
+  * Building OO-software from pieces
   * postfix
-  * скрипты, ну и по мелочам
-* Английский язык, свободно
-* Регулярные выражения на уровне более 9000. Решил [вот этот](http://habrahabr.ru/post/168591/) кроссворд, например.
-* Работаю в этой области примерно с 2007ого.
-* Диплом программного инженера НИУ ВШЭ — а там были алгоритмы, структуры данных и прочий матан
+  * Scripts, and the little things
+* English language, fluent
+* Regular expressions at a level over 9000. Solved [this](http://habrahabr.ru/post/168591/) crossword, for example.
+* Working in this field since about 2007.
+* Software engineering degree from [HSE University](https://www.hse.ru/en/) - there were algorithms, data structures, and other math stuff
 * ruby
-  * capistrano — чтобы деплоить Капой не рельсы, нужно довольно много знать об этом инфернальном поделии
+  * capistrano - to deploy with Capistrano not rails, you need to know a lot about this infernal device
   * jekyll
-  * RoR не знаю и не умею
-* ci — умею настраивать билды и прочую дребедень в TeamCity
-* Разбор инцидентов, отладка, расследование — вооружившись логами и логикой могу найти источник проблемы и решить её
-* Импорт и экспорт, трансформация данных, миграции и прочие процессы по сращиванию живых систем и впихиванию невпихуемого
+  * I don't know and can't do RoR
+* ci - I know how to set up builds and other trifles in TeamCity
+* Incident analysis, debugging, investigation - armed with logs and logic, I can find the source of the problem and solve it
+* Import and export, data transformation, migrations, and other processes for merging live systems and stuffing the unstuffable
 
-Знаю и умею ещё кучу всего, включая всевозможные C#, Groovy, QML, Java, ObjC, общее эникейство.
+I know and can do a lot more, including various C#, Groovy, QML, Java, ObjC, general geekery.
 
-# Работа в команде
-Гит, ветки, пулл-реквесты, QA-процесс, код ревью — всё это мне уже как родное. Имеются также управленческие навыки, аля планирование, распределение задач и прочее-прочее
+# Teamwork
+Git, branches, pull requests, QA process, code review - all this is already like second nature to me. I also have managerial skills, like planning, task distribution, etc.
 
-# Портфолио
+# Portfolio
 
-Я пророс 10 лет своей жизни (late 2011 — early 2022) в [timepad.ru](https://timepad.ru/), от разраба до CTO. Сейчас я работаю в другой классной компании, но в какой — пока не скажу.
-Кроме того я малость [активничал на github](/projects/), сделав небольшой вклад в [Codeception](http://codeception.com/) и выложив несколько своих странных разработок.
+I spent 10 years of my life (late 2011 - early 2022) at [timepad.ru](https://timepad.ru/), from developer to CTO. Now I work in another cool company, but I won't say which one yet.
+Besides, I was a bit [active on github](/projects/), making a small contribution to [Codeception](http://codeception.com/) and releasing a few of my strange developments.
 
-До этого я клепал сайты в студиях и фрилансом. С годами они (и сайты, и студии) пропадали по одному, и сейчас мне уже нечего показать.
+Before that, I made websites in studios and as a freelancer. Over the years, they (both the websites and the studios) disappeared one by one, and now I have nothing to show.

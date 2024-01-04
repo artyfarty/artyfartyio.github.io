@@ -1,1 +1,1 @@
-[artyfarty.ru](http://artyfarty.ru/) homepage repo
+[artyfarty.io](https://artyfarty.io/) homepage repo
