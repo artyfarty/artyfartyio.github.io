@@ -1,9 +1,9 @@
 # Site settings
 title: artyfarty
-email: mail@artyfarty.ru
-description:  Домашняя страница artyfarty
+email: mail@artyfarty.io
+description:  "Arty's homepage"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://artyfarty.ru" # the base hostname & protocol for your site
+url: "http://artyfarty.io" # the base hostname & protocol for your site
 twitter_username: molecularperson
 github_username:  artyfarty
 
