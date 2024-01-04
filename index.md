@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Me
+title: Arty
 weight: 10
 permalink: /
 ---
 
 # Who
-Name's Dmitry
+Name's Dmitry (Arty)
 
 <a href="https://www.linkedin.com/in/dmitry-guzhov-70665a236/">Web developer, software engineer, software development manager.</a> Also I <a href="http://instagram.com/molecula" title="instagram">do photos</a>, <a href="https://www.youtube.com/channel/UCEfbYNDwwvHzfHuo3VAba2Q">videos</a> и <a href="https://www.youtube.com/channel/UCYPpar8eQ-Jt0W80s6keA2w">and event streams</a>, make <a href="https://vk.com/supersoniccon">festivals</a>, operate lathe, collect retro stuff, shoot film, 3D print and watch anime.
 
