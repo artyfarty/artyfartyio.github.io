@@ -5,7 +5,7 @@ permalink: /devel/
 weight: 20
 ---
 
-I am an engineer by calling and education. I can build complex castles in the air in my mind. I can debug very quickly, narrowing down the search area to identify the problem. I don't get attached to my code, and I try not to have sharp views for or against certain technologies and approaches.
+I am an engineer by calling and education. I can create and maintain complex structures in my mind. I can debug very quickly, narrowing down the search area to identify the problem. I don't get attached to my code, and I try not to have sharp views for or against certain technologies and approaches.
 
 I can do it myself, or I can create a department of people who will do it — set up the software development and testing process.
 
